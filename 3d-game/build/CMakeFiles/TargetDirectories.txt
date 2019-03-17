@@ -1,0 +1,3 @@
+/Users/pratyushkumar/graphics/3d-game/build/CMakeFiles/rebuild_cache.dir
+/Users/pratyushkumar/graphics/3d-game/build/CMakeFiles/edit_cache.dir
+/Users/pratyushkumar/graphics/3d-game/build/CMakeFiles/graphics_asgn1.dir
